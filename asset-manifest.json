@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Manikanta-prj/static/css/main.fd3cc50a.chunk.css",
-    "main.js": "/Manikanta-prj/static/js/main.fdc58330.chunk.js",
-    "main.js.map": "/Manikanta-prj/static/js/main.fdc58330.chunk.js.map",
-    "runtime-main.js": "/Manikanta-prj/static/js/runtime-main.9cadd3ec.js",
-    "runtime-main.js.map": "/Manikanta-prj/static/js/runtime-main.9cadd3ec.js.map",
-    "static/js/2.0151e9d6.chunk.js": "/Manikanta-prj/static/js/2.0151e9d6.chunk.js",
-    "static/js/2.0151e9d6.chunk.js.map": "/Manikanta-prj/static/js/2.0151e9d6.chunk.js.map",
-    "static/js/3.1f626b17.chunk.js": "/Manikanta-prj/static/js/3.1f626b17.chunk.js",
-    "static/js/3.1f626b17.chunk.js.map": "/Manikanta-prj/static/js/3.1f626b17.chunk.js.map",
-    "index.html": "/Manikanta-prj/index.html",
-    "static/css/main.fd3cc50a.chunk.css.map": "/Manikanta-prj/static/css/main.fd3cc50a.chunk.css.map",
-    "static/js/2.0151e9d6.chunk.js.LICENSE.txt": "/Manikanta-prj/static/js/2.0151e9d6.chunk.js.LICENSE.txt"
+    "main.css": "/public/Manikanta-prj/static/css/main.fd3cc50a.chunk.css",
+    "main.js": "/public/Manikanta-prj/static/js/main.fdc58330.chunk.js",
+    "main.js.map": "/public/Manikanta-prj/static/js/main.fdc58330.chunk.js.map",
+    "runtime-main.js": "/public/Manikanta-prj/static/js/runtime-main.48521348.js",
+    "runtime-main.js.map": "/public/Manikanta-prj/static/js/runtime-main.48521348.js.map",
+    "static/js/2.0151e9d6.chunk.js": "/public/Manikanta-prj/static/js/2.0151e9d6.chunk.js",
+    "static/js/2.0151e9d6.chunk.js.map": "/public/Manikanta-prj/static/js/2.0151e9d6.chunk.js.map",
+    "static/js/3.1f626b17.chunk.js": "/public/Manikanta-prj/static/js/3.1f626b17.chunk.js",
+    "static/js/3.1f626b17.chunk.js.map": "/public/Manikanta-prj/static/js/3.1f626b17.chunk.js.map",
+    "index.html": "/public/Manikanta-prj/index.html",
+    "static/css/main.fd3cc50a.chunk.css.map": "/public/Manikanta-prj/static/css/main.fd3cc50a.chunk.css.map",
+    "static/js/2.0151e9d6.chunk.js.LICENSE.txt": "/public/Manikanta-prj/static/js/2.0151e9d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cadd3ec.js",
+    "static/js/runtime-main.48521348.js",
     "static/js/2.0151e9d6.chunk.js",
     "static/css/main.fd3cc50a.chunk.css",
     "static/js/main.fdc58330.chunk.js"
