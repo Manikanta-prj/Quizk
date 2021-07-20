@@ -5,7 +5,8 @@ import '../App.css'
 const Question = (props) => {
     const count =0
 
-    const answers = [...props.qus.incorrect_answers, props.qus.correct_answer]
+    const answers = [...props.qus.incorrect_answers, props.qus.correct_answer];
+    answers.sort((a,b) => a.localeCompare(b))
     
 
     return (

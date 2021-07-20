@@ -50,6 +50,7 @@ const Quiz = (props) => {
   }, [counter]);
     //console.log({questions})
 
+    
     return (
         <div className="App">
             <div className="right">Time : {counter}</div>
